@@ -80,10 +80,3 @@ Testing the endpoints
 Contributing
 - Feel free to submit changes or refactorings. If you rename or move servlets, update their `@WebServlet` mappings or `web.xml` accordingly.
 
-License
-- No license file is included. Add one if you plan to publish this project.
-
-If you'd like, I can:
-- Add a small `Makefile` or Maven profile to run the app with an embedded container for easier local testing.
-- Fix the `Ex4Servelet` input types and the class name spellings and add unit tests for parsing/validation.
-
